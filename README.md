@@ -2,7 +2,9 @@
 This demo.cfg file helps in the process of watching CS2's demo.
 
 # Installation
-1. Open the archive and extract its content into the following path folder : "...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\"
+1. Open the archive and extract its content into the following path folder :
+
+        "...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\"
 
 2. Launch the game, start the replay of a demo ("playdemo [filename]") and type in the console the following command: "exec demo.cfg".
 
