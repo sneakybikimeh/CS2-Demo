@@ -18,7 +18,7 @@ This `demo.cfg` file helps in the process of watching CS2's demo.
 - `bulletsdecals` (F7) will toggle bullet's hitmarkers.
   
 - `demo_togglepause` (KP_0) will toggle between pause/resume.
-- `reset_timescale` (KP_1 / MOUSE3) will reset the speed of the demo; it also reset the value of `slowdemo / fastdemo / rewinder / forward / jumptick` to its lowest value.
+- `reset_timescale` (KP_1 / MOUSE3) will reset the speed of the demo; it also reset the value of `slowdemo/fastdemo/rewinder/forward/jumptick` to its lowest value.
 - `slowdemosw` (KP_2) will slow the timescale; There is 3 different scales you can switch by repeating the command.
 - `fastdemosw` (KP_3) will fasten the timescale; There is 5 differents scales you can switch by repeating the command.
 - `jtswitch` (KP_4) changes the amount of tick for `rewinder` and `forwarder`; There is 6 differents scales you can switch by repeating the command (3s/11s/23s/45s/1min/1round).
